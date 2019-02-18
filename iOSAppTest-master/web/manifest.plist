@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.itbg.crm.crmIncentive</string>
+				<string>com.SolarSoft.SolarWallet</string>
 				<key>bundle-version</key>
-				<string>1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>工作助手</string>
+				<string>chjz.0</string>
 			</dict>
 		</dict>
 	</array>
